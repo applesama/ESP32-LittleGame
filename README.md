@@ -1,5 +1,5 @@
 # ESP32-LittleGame
-Just a little simple game that was created by me and the other one of my classmate
+Just a little game that was created by me and the other one of my classmate
 
 Here are the instruction of this game: 
 This is simple game that the you use right and left button to move your figher right or left to avoid enemy's firepower and shoot the enemy. 
